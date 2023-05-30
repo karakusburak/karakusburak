@@ -1,5 +1,7 @@
-## 
+#
+ 
 👋 Merhaba ben Burak Emirhan Karakuş. Tekirdağ Namık Kemal Üniversitesi 3.sınıf öğrencisiyim. Front end alanında kendimi geliştirmekteyim.
+
 💻 Aktif olarak React öğreniyorum. HTML CSS JavaScript kullanarak web siteleri geliştiriyorum.
 <!--
 **karakusburak/karakusburak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
